@@ -4,7 +4,7 @@ PKG_NAME:=sing-box-next
 PKG_VERSION:=1.10.0_beta6
 PKG_RELEASE:=1
 
-PKG_HASH:=001649cb077e9de48ff566f6ca383f6b92d1f23b
+PKG_HASH:=skip
 PKG_SOURCE:=$(PKG_HASH).tar.gz
 PKG_SOURCE_URL:=https://github.com/SagerNet/sing-box/archive/$(PKG_HASH).tar.gz
 
